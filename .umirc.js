@@ -591,4 +591,6 @@ export default {
       },
     ],
   },
+  base: '/mirror/formily',
+  publicPath: '/mirror/formily/',
 }
